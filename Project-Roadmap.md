@@ -8,3 +8,12 @@
 - [ ] Define the core functionalities
 - [ ] Adjust forked repositories as needed
 - [x] Complete Project part 1: Sprint 1 Quiz
+# Sprint 2
+- [x] Update Roadmap
+- [x] Begin Coding(define goal) - Goal: Establish a website to run games on
+- [x] Review class content + teaching code as reference data
+- [x] Create first .py file
+- [x] Commit 3 changes - Imports, pseudocode, comments
+- [x] Commit 3 more changes - Basic login data, find insect library to import, Lists/etc.
+- [ ] Complete quiz: Sprint 2 before deadline!!
+- [ ] Continue research
