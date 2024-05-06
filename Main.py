@@ -1,5 +1,6 @@
 import asyncio
 import pygame as pig
+import time
 import js
 import io
 import random
@@ -20,6 +21,7 @@ async def main():
     window_width, window_height = 1920, 1080
     pygame.init()
     pygame.display.set_mode((window_width, window_height), flags=pygame.OPENGL | pygame.DOUBLEBUF, vsync=True)
+    pygame.display.set_caption("Bug Collector_TM_IS2200")
     pygame.mixer.init()
 
 Keys_values = {
