@@ -18,12 +18,12 @@
 - [ ] Complete quiz: Sprint 2 before deadline!!
 - [ ] Continue research
 # Sprint 3
--[x] Update ReadMe with any further instructions needed for running the game
--[x] Code a game screen
--[x] Code Buttons onto screen 
--[x] Make game interactable 
--[x] Create sprites/background in canva or import sprites
--[x] Develop methods to be used in main (created in sprint 2)
--[] Add music to game  
--[x] Record game for submission
--[x] Edit recording for submission
+- [x] Update ReadMe with any further instructions needed for running the game
+- [x] Code a game screen
+- [x]  Code Buttons onto screen 
+- [x]  Make game interactable 
+- [x] Create sprites/background in canva or import sprites
+- [x] Develop methods to be used in main (created in sprint 2)
+- [ ] Add music to game  
+- [x] Record game for submission
+- [x] Edit recording for submission
